@@ -4,7 +4,8 @@ the top additions will always be the newest features
 -------------------------------------------
 **LIBRARY:**
 
-*ResiTV*
+**ResiTV**
+
 Dragon Ball Z
 
 Amazing World of Gumball
@@ -33,7 +34,7 @@ Courage The Cowardly Dog
 
 Teen Titans
 
-*NIGHTMARE*
+**NIGHTMARE**
 
 Rick and Morty
 
